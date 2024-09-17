@@ -1,1 +1,2 @@
 # Heart_Disease_Prediction
+Heart disease prediction using machine learning involves training models on health-related data (like age, cholesterol, blood pressure, etc.) to predict the likelihood of heart disease. The process includes data collection, preprocessing, selecting and training a machine learning model (e.g., logistic regression, decision trees, KNN, etc) and evaluating its performance using metrics like accuracy, precision, and ROC-AUC. The model helps in identifying high-risk patients, enabling early intervention and improved clinical decision-making.
